@@ -26,7 +26,7 @@ public class ejercicio1 {
         System.out.println("El area del circulo es: "+area);
         System.out.println("El perimetro del circulo es: "+perimetro);
         
-        System.out.println("intento n ya me oolvide");
+        System.out.println("El perimetro al cuadrado es:"+perimetro*2);
         
     }
     
